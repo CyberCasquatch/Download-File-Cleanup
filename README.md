@@ -1,6 +1,6 @@
 # Download-File-Cleanup
 
-"PythonScriptPhoto.jpg"
+<img src="PythonScriptPhoto.jpg" height="80%" width="80%" alt="Python Script & Files"/>
 
 This code sorts the download folder into several directories with all downloaded files currently within the downloads folder. 
 
