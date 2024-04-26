@@ -1,4 +1,7 @@
 # Download-File-Cleanup
+
+"PythonScriptPhoto.jpg"
+
 This code sorts the download folder into several directories with all downloaded files currently within the downloads folder. 
 
 #I couldn't get the first code to work so I made myself feel better with this simpler code. 
