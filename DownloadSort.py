@@ -45,6 +45,6 @@ def sort_downloads_folder(downloads_folder_path):
 
 
 if __name__ == "__main__":
-    downloads_folder_path = "/Users/vonatron/Downloads"  # Replace with your Downloads folder path
+    downloads_folder_path = "path_to_your_downloads_folder"  # Replace with your Downloads folder path
     sort_downloads_folder(downloads_folder_path)
     print("Files sorted successfully!")
